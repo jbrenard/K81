@@ -343,7 +343,3 @@ https://bfmbusiness.bfmtv.com/mediaplayer/video/coronavirus-comment-essilorluxot
 <https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html>
 
 <https://www.washingtonpost.com/outlook/2020/03/28/masks-all-coronavirus/>
-
-![Picture 1](media/image1.jpeg)
-
-*Source: Financial Times*
