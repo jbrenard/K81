@@ -57,8 +57,7 @@ En conséquence, nous recommandons trois actions à engager sans attendre
 3.  Confirmer par une étude scientifique les conclusions précédentes
     afin de cibler les mesures les plus efficaces.
 
-Les membres de la Kès 81
-
+Les membres de la Kès 81 :  
 Laurent Chaudron, Nicolas Cheimanoff, Laurence Chevet, Guillaume
 Gerondeau, Olivier Jousselin, Nicolas de Kouchkovsky, Jean-Baptiste
 Renard, François Steiner
