@@ -7,9 +7,9 @@ Countries where the use of protective masks is prevalent due to either cultural 
 
 The analysis was based on the comparison between the development rate of the epidemic in these countries compared to a calculation based on the observed use of masks and published efficiency of protective masks.
 
-The analysis shows that the simulations are close to the observed data and clearly establishes a correlation. Given the magnitude of the discrepancy for the rate of replication between countries promoting the use of masks (circa 1) and the others (circa 3) it is highly likely that there is an underlying causal link. This hypothesis is shared by numerous specialists in Asia, notably in China and South Corea.
+The analysis shows that the simulations are close to the observed data and clearly establishes a correlation. Given the magnitude of the discrepancy for the rate of replication between countries promoting the use of masks (circa 1) and the others (circa 3) it is highly likely that there is an underlying causal link. This hypothesis is shared by numerous specialists in Asia, notably in China and South Korea.
 
-The hypothesis that generalised use of protective masks (or any means of limiting propagation via aerosol or hand-to-face contact) significantly slows down the epidemic seems therefore extremely likely. Its contribution to the control of pandemic propagation could be of the same magnitude as confinement. The main objective of the systematic use of masks is not only to protect the wearer (as is the case for medical personel) but to reduce the replication rate R0 to bring it from 3 to circa 1.
+The hypothesis that generalised use of protective masks (or any means of limiting propagation via aerosol or hand-to-face contact) significantly slows down the epidemic seems therefore extremely likely. Its contribution to the control of pandemic propagation could be of the same magnitude as confinement. The main objective of the systematic use of masks is not only to protect the wearer (as is the case for medical personnel) but to reduce the replication rate R0 to bring it from 3 to circa 1.
 
 We therefore recommend to launch the three following measures as soon as possible:
 1. Promote then make compulsory the use of protective masks in public spaces, be it homemade masks while the availability of certified products remains insufficient.
