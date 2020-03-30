@@ -3,7 +3,7 @@ Press Release
 With the objective of contributing to the fight against COVID-19 pandemic, members of the student council of Ecole Polytechnique - class of 1981 (Kès 81)  performed an analysis of the rate of expansion of the disease in several countries in relation to the use of protective masks. This analysis is not meant as a substitute to in-depth scientific studies but its results are significant enough to be put forward [1].
 Said analysis and following recommendations are the signatories' only and do not reflect the position of the class of 1981 nor of any of its representative entities. Its vocation is to be completed and amended following an open-source model.
 
-Countries where the use of protective masks is prevalent due to cultural or regulatory context, have not experienced exponential pandemic growth even though they have different policies in terms of tests, confinement or border control, or even different health systems or hygiene practices.
+Countries where the use of protective masks is prevalent due to either cultural or regulatory context, have not experienced exponential pandemic growth even though they have different policies in terms of tests, confinement or border control, or even different health systems or hygiene practices.
 
 The analysis was based on the comparison between the development rate of the epidemic in these countries compared to a calculation based on the observed use of masks and published efficiency of protective masks.
 
