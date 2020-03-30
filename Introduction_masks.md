@@ -13,7 +13,7 @@ The hypothesis that generalised use of protective masks (or any means of limitin
 
 We therefore recommend to launch the three following measures as soon as possible:
 1. Promote then make compulsory the use of protective masks in public spaces, be it homemade masks while the availability of certified products remains insufficient.
-2. Invest in local manufacturing of protective masks following the example set by China in mobilising their industry
+2. Invest in local manufacturing of protective masks following the example set by China in mobilising their industry.
 3. Confirm by an in-depth scientific studies the above conclusions so as to target the most efficient measures.
 
 The members of Kès 1981:  
