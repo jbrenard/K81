@@ -16,7 +16,7 @@ We therefore recommend to launch the three following measures as soon as possibl
 2. Invest in local manufacturing of protective masks following the example set by China in mobilising their industry
 3. Confirm by an in-depth scientific studies the above conclusions so as to target the most efficient measures.
 
-The members of Kès 1981
+The members of Kès 1981:  
 Laurent Chaudron, Nicolas Cheimanoff, Laurence Chevet, Guillaume Gerondeau, Olivier Jousselin, Nicolas de Kouchkovsky, Jean-Baptiste Renard, François Steiner
 
 For further inquiry : guillaume.gerondeau@polytechnique.org
