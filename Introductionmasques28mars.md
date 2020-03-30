@@ -65,5 +65,5 @@ Renard, François Steiner
 
 Pour tout contact : guillaume.gerondeau@polytechnique.org
 
-1.  Analyse disponible sur
+[1]  Analyse disponible sur
     <https://github.com/fsteiner/K81/raw/master/Analyseportdemasque29mars.docx>
