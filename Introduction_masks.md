@@ -1,6 +1,6 @@
 Press Release
 
-With the objective of contributing to the fight against the COVID-19 pandemic, members of the student council of Ecole Polytechnique - class of 1981 (Kès 81)  performed an analysis of the rate of expansion of the disease in several countries in relation to the use of protective masks. This analysis is a substitute to in-depth scientific studies but its results are compelling enough to be widely shared [1].
+With the objective of contributing to the fight against the COVID-19 pandemic, members of the student council of Ecole Polytechnique - class of 1981 (Kès 81)  performed an analysis of the rate of expansion of the disease in several countries in relation to the use of protective masks. This analysis is not a substitute to in-depth scientific studies but its results are compelling enough to be widely shared [1].
 The analysis and following recommendations are the signatories' only and do not reflect the position of the class of 1981 nor of any of its representative entities. Its vocation is to be completed and amended following an open-source model.
 
 Countries where the use of protective masks is prevalent have not experienced an exponential pandemic growth even though they have different policies in terms of tests, confinement, border control, or even different health systems and hygiene practices.
