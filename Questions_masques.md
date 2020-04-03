@@ -1,6 +1,6 @@
 ## Masques : les questions
 
-En réaction à notre premier mémo, nous avons reçu certaines questions. 
+En réaction à notre premier mémo, nous avons reçu beauxoup de messages de soutien, et aussi certaines questions. 
 En nous appuyant sur notre [document précédent](Analyseportdemasque29mars.md) et sur l'information disponible, nous avons préparé quelques questions-réponses, que nous enrichirons au fil du temps.
 
 ### Q : "Que sait-on des modes de propagation du COVID-19 ?"
@@ -28,5 +28,7 @@ C'est un bon début, mais c'est vastement insuffisant : nous sommes 60 millions,
 À Taiwan, les autorités distribuent 3 masques par semaine et par adulte. Pour la France, ceci représenterait *250 millions de masques par semaine* ...
 
 ### Q : "L'OMS dit que ça ne sert à rien !"
-Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, nous sommes ici à la limite de la malhonnêteté intellectuelle.
+Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, nous sommes ici à la limite de la malhonnêteté intellectuelle. l'autre argument de l'OMS est encore plus étonnant - il y a des preuves que porter un masque de la mauvaise manière accélère la propagation du virus. 
+https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-30-20-intl-hnk/h_a4c7ab061408ea0bba6e5ba93936f2f4
+Donc l'OMS n´aurait aucune étude sur l'efficacité du masque, mais des études sur ses effets négatifs lorsque mal utilisés.  
 De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) et maintenant l'Académie de Médecine en France, recommandent à ceux qui sortent de porter un masque systématiquement.
