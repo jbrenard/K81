@@ -12,7 +12,7 @@ Elles montrent des niveaux de protection à la réception d'environ d'environ 50
 Les données disponibles de protection à l'émission sont moins exploitables mais en considérant que la protection à l'émission est au moins aussi élevée qu'à la réception, nous avons pris l'hypothèse conservatrice de 50% pour les masques artisanaux et 63% pour les masques chirurgicaux à l'émission comme à la réception.
 
 Le risque de contracter la maladie étant proportionnel au degré d'exposition au virus, même une protection partielle réduit le risque. En particulier, les protections à l'émission et à la réception cumulant leurs effets positifs, l'efficacité du port généralisé du masque provient donc du double filtrage : réduction à l'émission, puis à la réception.  
-Par exemple, le risque pour un porteur de masque artisanal d'être contaminé par un porteur de masque chirurgical seraient de :
+Par exemple, le risque pour un porteur de masque artisanal d'être contaminé par un porteur de masque chirurgical seraient :
 > (1-63%) *émission* x (1-50%) *réception* = 18.5%
 
 Si on applique les taux de protection sélectionnés à deux hypothèses d'équipement de la population (sans masques FFP2, supposés réservés au personnel médical) : 
