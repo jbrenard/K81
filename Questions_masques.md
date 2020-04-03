@@ -29,4 +29,4 @@ C'est un bon début, mais c'est vastement insuffisant : nous sommes 60 millions,
 
 ### Q : "L'OMS dit que ça ne sert à rien !"
 Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, nous sommes ici à la limite de la malhonnêteté intellectuelle.
-De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France, recommande maintenant à ceux qui sortent de porter un masque systématiquement.
+De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) et maintenant l'Académie de Médecine en France, recommandent à ceux qui sortent de porter un masque systématiquement.
