@@ -28,5 +28,5 @@ C'est un bon début, mais c'est vastement insuffisant : nous sommes 60 millions,
 À Taiwan, les autorités distribuent 3 masques par semaine et par adulte. Pour la France, ceci représenterait *250 millions de masques par semaine* ...
 
 ### Q : "L'OMS dit que ça ne sert à rien !"
-Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, nous sommes ici à la limite de la malhonnêteté intellectuelle.
+Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, donc aucune étude ne prouve non plus que ça ne sert à rien.
 De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) et maintenant l'Académie de Médecine en France, recommandent à ceux qui sortent de porter un masque systématiquement.
