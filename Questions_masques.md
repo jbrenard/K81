@@ -30,6 +30,9 @@ C'est un bon début, mais c'est vastement insuffisant : nous sommes 60 millions,
 
 ### Q : "L'OMS dit que ça ne sert à rien !"
 Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, donc aucune étude ne prouve non plus que ça ne sert à rien.
+
 De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) recommande à ceux qui sortent de porter un masque systématiquement. Voyez [ici](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) la recommandation du CDC, avec une démonstration par le ministre de la santé étatsunien de la façon de se protéger facilement, sans couture.
+
 2 avril :  l'Académie de Médecine en France rejoint cet avis, voici [sa recommandation complète](http://www.academie-medecine.fr/communique-de-lacademie-pandemie-de-covid-19-mesures-barrieres-renforcees-pendant-le-confinement-et-en-phase-de-sortie-de-confinement/).
+
 Mise à jour du 4 avril - le docteur Mike Ryan, expert en situations d'urgence à l'OMS a déclaré «(...)l'idée d'utiliser des masques recouvrant les voies respiratoires ou la bouche pour empêcher que la toux ou le reniflement projette la maladie dans l'environnement et vers les autres (...) n'est pas une mauvaise idée en soi» [cité par le Figaro](https://www.lefigaro.fr/flash-actu/coronavirus-l-oms-ouvre-la-voie-a-un-usage-elargi-des-masques-20200403).
