@@ -6,10 +6,11 @@ En France, le taux de croissance des cas déclarés comme des décès liés au C
   
 <img src="https://github.com/fsteiner/K81/blob/master/Chart%20France.png" width="600">  
   
-Des estimations de l'efficacité des masques à l'inhalation (protection du porteur) et dans une moindre mesure à l'exhalation (protection d'autrui et non contamination de l'environnement) sont disponibles [1][2].  
+Des estimations de l'efficacité des masques à l'inhalation (protection du porteur) et dans une moindre mesure à l'exhalation (protection d'autrui et non contamination de l'environnement) sont disponibles [1][2][3].  
 
 Elles montrent des niveaux de protection à la réception d'environ d'environ 50% pour les masques artisanaux, 63-80% pour les masques chirurgicaux et de l'ordre de 95% pour les masques de protection type FFP2, pour des tailles de particules comparables (23 nm pour le test contre 60-100 nm pour le virus).
-Les données disponibles de protection à l'émission sont moins exploitables mais en considérant que la protection à l'émission est au moins aussi élevée qu'à la réception, nous avons pris l'hypothèse conservatrice de 50% pour les masques artisanaux et 63% pour les masques chirurgicaux à l'émission comme à la réception.
+Les données disponibles de protection à l'émission sont moins directement exploitables - sur un échantillon limité, une efficacité quasi-totale a été mesurée pour les masques chirurgicaux dans le cas de coronavirus [3].  
+Dans le présent document, nous avons pris l'hypothèse conservatrice d'aligner la performance à l'émission sur celle mesurée à la réception soit 50% pour les masques artisanaux et 63% pour les masques chirurgicaux.
 
 Le risque de contracter la maladie étant proportionnel au degré d'exposition au virus, même une protection partielle réduit le risque. En particulier, les protections à l'émission et à la réception cumulant leurs effets positifs, l'efficacité du port généralisé du masque provient donc du double filtrage : réduction à l'émission, puis à la réception.  
 Par exemple, le risque pour un porteur de masque artisanal d'être contaminé par un porteur de masque chirurgical seraient :
@@ -27,8 +28,11 @@ Associé à d'autres mesures (tests, confinement sélectif) son application perm
 
 
 #### Références
-[1]  Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?  
-Davies, Thompson, Giri, et al. Disaster medicine and public health preparedness 10.1017/dmp.2013.43  
+[1]  Davies, Thompson, Giri, et al. Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?  
+Disaster medicine and public health preparedness 10.1017/dmp.2013.43  
 https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/testing-the-efficacy-of-homemade-masks-would-they-protect-in-an-influenza-pandemic/0921A05A69A9419C862FA2F35F819D55
 
 [2] Compilation de plusieurs études réalisées par l'entreprise sociale Smart Air  https://smartairfilters.com/en/blog/coronavirus-pollution-masks-n95-surgical-mask/
+
+[3] Leung, N.H.L., Chu, D.K.W., Shiu, E.Y.C. et al. Respiratory virus shedding in exhaled breath and efficacy of face masks. Nat Med (2020).  
+https://doi.org/10.1038/s41591-020-0843-2
