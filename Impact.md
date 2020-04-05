@@ -14,16 +14,33 @@ Dans le présent document, nous avons pris l'hypothèse conservatrice d'aligner 
 
 Le risque de contracter la maladie étant proportionnel au degré d'exposition au virus, même une protection partielle réduit le risque. En particulier, les protections à l'émission et à la réception cumulant leurs effets positifs, l'efficacité du port généralisé du masque provient donc du double filtrage : réduction à l'émission, puis à la réception.  
 Par exemple, le risque pour un porteur de masque artisanal d'être contaminé par un porteur de masque chirurgical seraient :
-> (1-63%) *émission* x (1-50%) *réception* = 18.5%
+> (1-63%) *émission* x (1-50%) *réception* = 18,5%  
+soit une efficacité de :
+> 1 - 18,5% = 81,5%  
+De la même manière, l'efficacité entre deux porteurs de masques artisanaux serait de 75%, et de 86% entre deux porteurs de masques chirurgicaux.
 
-Si on applique les taux de protection sélectionnés à deux hypothèses d'équipement de la population (sans masques FFP2, supposés réservés au personnel médical) : 
+En faisant des hypothèses d'équipement de la population et en étendant ce calcul à tous les cas de figure on peut calculer une efficacité moyenne sur l'ensemble de la population.
+
+Si on applique les taux de protection sélectionnés aux hypothèses suivantes (sans masques FFP2, supposés réservés au personnel médical) : 
 - H1 (court terme) 20% de la population sans masque, 60% avec masque artisanal, 20% avec masque chirurgical
 - H2 10% sans masque, 30% avec masque artisanal, 60% avec masque chirurgical
 
-Les coefficients R en résultant sont respectivement de **1.3 pour H1 et 1.1 pour H2**
+Les efficacités E1 et E2 résultantes seraient de respectivement 67% et 73%.
+Pour calculer R, il suffit d'appliquer cette efficacité au coefficient Ro selon la formule suivante :
+> R = (1-E) x Ro  
 
-Ces calculs simples basés sur des hypotèses vérifiées montre l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie.
-Associé à d'autres mesures (tests, confinement sélectif) son application permettrait de ramener le coefficient R au-dessous de 1 et donc de stopper la propagation de l'épidémie.
+Les coefficients R en résultant seraient respectivement de 1.4 pour H1 et 1.2 pour H2
+
+Le tableau suivant montre une analyse de sensibilité pour R suivant diverses valeurs de Ro et d'efficacité E :  
+| E \\ Ro | 3.0 | 3.5 | 4.0 | 4.5 |
+| :----   | -:  | -:  | -:  | -: |
+| **60%** | 1.2 | 1.4 | 1.6 | 1.8 |
+| **65%** | 1.1 | 1.2 | 1.4 | 1.6 |
+| **70%** | 0.9 | 1.1 | 1.2 | 1.4 |
+| **75%** | 0.8 | 0.9 | 1.0 | 1.1 |
+
+Ces calculs simples basés sur des hypotèses vérifiées ont pour seul objet de montrer l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
+La seule conclusion valide qui peut en être tirée est que le port généralisé du masque, associé à d'autres mesures (tests, confinement sélectif) contribuerait significativement à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
 
 
 
