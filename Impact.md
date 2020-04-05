@@ -15,8 +15,10 @@ Dans le présent document, nous avons pris l'hypothèse conservatrice d'aligner 
 Le risque de contracter la maladie étant proportionnel au degré d'exposition au virus, même une protection partielle réduit le risque. En particulier, les protections à l'émission et à la réception cumulant leurs effets positifs, l'efficacité du port généralisé du masque provient donc du double filtrage : réduction à l'émission, puis à la réception.  
 Par exemple, le risque pour un porteur de masque artisanal d'être contaminé par un porteur de masque chirurgical seraient :
 > (1-63%) *émission* x (1-50%) *réception* = 18,5%  
+
 soit une efficacité de :
 > 1 - 18,5% = 81,5%  
+
 De la même manière, l'efficacité entre deux porteurs de masques artisanaux serait de 75%, et de 86% entre deux porteurs de masques chirurgicaux.
 
 En faisant des hypothèses d'équipement de la population et en étendant ce calcul à tous les cas de figure on peut calculer une efficacité moyenne sur l'ensemble de la population.
@@ -39,7 +41,7 @@ Le tableau suivant montre une analyse de sensibilité pour R suivant diverses va
 | **70%** | 0.9 | 1.1 | 1.2 | 1.4 |
 | **75%** | 0.8 | 0.9 | 1.0 | 1.1 |
 
-Ces calculs simples basés sur des hypotèses vérifiées ont pour seul objet de montrer l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
+Ces calculs simples basés sur des hypothèses vérifiées ont pour seul objet de montrer l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
 La seule conclusion valide qui peut en être tirée est que le port généralisé du masque, associé à d'autres mesures (tests, confinement sélectif) contribuerait significativement à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
 
 
