@@ -31,7 +31,7 @@ Associé à d'autres mesures (tests, confinement sélectif) son application perm
 [1] On applique un modèle simpliste de propagation de l'épdémie suivant une courbe en S :  
 > x = 1/(1 + e<sup>-kt</sup>)  
 
-Où x est la proportion de la population contaminée, t le temps écoulé en jours et k un paramètre caractérisant la vitesse d'évolution.
+Où x est la proportion de la population contaminée, t le temps écoulé en jours et k un paramètre caractérisant la vitesse d'évolution.  
 Dans la phase initiale de l'épidémie, la croissance est pratiquement exponentielle :
 > x ~ e<sup>kt</sup> = (1 + r)<sup>t</sup>  
 
