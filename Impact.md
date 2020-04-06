@@ -31,18 +31,19 @@ Les efficacités E1 et E2 résultantes seraient de respectivement 67% et 74%.
 Pour calculer R, il suffit d'appliquer cette efficacité au coefficient Ro selon la formule suivante :
 > R = (1-E) x Ro  
 
-Les coefficients R en résultant seraient respectivement de 1,0 pour H1 et 0,8 pour H2
+Les coefficients R en résultant seraient respectivement de 1,0 pour H1 et 0,8 pour H2.  
+Si on retenait pour les masques chirurgicaux le haut de la fourchette d'efficacité (80% au lieu de 63%), E1 et E2 seraient respectivement de 71% et 82%, avec des coefficients R ramenés à 0,9 pour H1 et 0,6 pour H2.
 
 Le tableau suivant montre une analyse de sensibilité pour R suivant diverses valeurs de Ro et d'efficacité E :  
 | E \\ Ro | 2.5 | 3.0 | 3.5 |
 | :----   | -:  | -:  | -:  | 
-| **60%** | 1.0 | 1.2 | 1.4 | 
 | **65%** | 0.9 | 1.1 | 1.2 |
 | **70%** | 0.8 | 0.9 | 1.1 |
 | **75%** | 0.6 | 0.8 | 0.9 |
+| **80%** | 0.5 | 0.6 | 0.7 |
 
-Ces calculs simples basés sur des hypothèses vérifiées ont pour seul objet de montrer l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
-Ils permettent cependant de conclure que le port généralisé du masque, associé à d'autres mesures (tests, confinement sélectif) contribue significativement à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
+Ces calculs simples basés sur des hypothèses vérifiées ont pour seul objet de montrer l'effet du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
+Ils permettent de conclure que le port généralisé du masque apporte une contribution du premier ordre à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
 
 
 
