@@ -45,6 +45,8 @@ Le tableau suivant montre une analyse de sensibilité pour R suivant diverses va
 Ces calculs simples basés sur des hypothèses vérifiées ont pour seul objet de montrer l'effet du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
 Ils permettent de conclure que le port généralisé du masque apporte une contribution du premier ordre à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
 
+Ces résultats sont cohérents avec une étude scientifique détaillée [5] montrant qu'une épidémie de grippe peut être enrayée par le port de masques par 80% de la population.
+
 
 
 #### Références
@@ -68,5 +70,6 @@ https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-prep
 
 [3] Compilation de plusieurs études réalisées par l'entreprise sociale Smart Air  https://smartairfilters.com/en/blog/coronavirus-pollution-masks-n95-surgical-mask/
 
-[4] Leung, N.H.L., Chu, D.K.W., Shiu, E.Y.C. et al. Respiratory virus shedding in exhaled breath and efficacy of face masks. Nat Med (2020).  
-https://doi.org/10.1038/s41591-020-0843-2
+[4] Leung, N.H.L., Chu, D.K.W., Shiu, E.Y.C. et al. Respiratory virus shedding in exhaled breath and efficacy of face masks. Nat Med (2020).  doi.org/10.1038/s41591-020-0843-2
+
+[5] Yan J, Guha S, Hariharan P, Myers M. Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak. Risk Anal. 2019;39(3):647–661. doi:10.1111/risa.13181
