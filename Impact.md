@@ -2,7 +2,7 @@
 
 Cette simulation simple ne vise pas à se substituer à des études scientifiques détaillées, mais à donner un modèle simplifié et transparent qui illustre l'impact du port généralisé du masque sur le contrôle de l'épidémie.
 
-En France, le taux de croissance des cas déclarés comme des décès liés au Covid-19 est de l'ordre de 30% avant confinement et environ moitié moindre après les mesures de confinement mises en oeuvre, ce qui correspond à un taux de reproduction de base (Ro) de l'ordre de 4,4 (sur la base de 14 jours de période de contagion) et un taux de reproduction (R) d'environ 2,0 après confinement.[1]  
+En France, le taux de croissance des cas déclarés comme des décès liés au Covid-19 est de l'ordre de 30% avant confinement et environ moitié moindre après les mesures de confinement mises en oeuvre, ce qui correspond à un taux de reproduction de base (Ro) de l'ordre de 3,1 (sur la base de 10 jours de période de contagion) et un taux de reproduction (R) d'environ 1,4 après confinement.[1]  
   
 <img src="https://github.com/fsteiner/K81/blob/master/Chart%20Covid%20France.png" width="600">  
   
@@ -25,24 +25,24 @@ En faisant des hypothèses d'équipement de la population et en étendant ce cal
 
 Si on applique les taux de protection sélectionnés aux hypothèses suivantes (sans masques FFP2, supposés réservés au personnel médical) : 
 - H1 (court terme) 20% de la population sans masque, 60% avec masque artisanal, 20% avec masque chirurgical
-- H2 10% sans masque, 30% avec masque artisanal, 60% avec masque chirurgical
+- H2 10% sans masque, 20% avec masque artisanal, 70% avec masque chirurgical
 
-Les efficacités E1 et E2 résultantes seraient de respectivement 67% et 73%.
+Les efficacités E1 et E2 résultantes seraient de respectivement 67% et 74%.
 Pour calculer R, il suffit d'appliquer cette efficacité au coefficient Ro selon la formule suivante :
 > R = (1-E) x Ro  
 
-Les coefficients R en résultant seraient respectivement de 1.4 pour H1 et 1.2 pour H2
+Les coefficients R en résultant seraient respectivement de 1,0 pour H1 et 0,8 pour H2
 
 Le tableau suivant montre une analyse de sensibilité pour R suivant diverses valeurs de Ro et d'efficacité E :  
-| E \\ Ro | 3.0 | 3.5 | 4.0 | 4.5 |
-| :----   | -:  | -:  | -:  | -: |
-| **60%** | 1.2 | 1.4 | 1.6 | 1.8 |
-| **65%** | 1.1 | 1.2 | 1.4 | 1.6 |
-| **70%** | 0.9 | 1.1 | 1.2 | 1.4 |
-| **75%** | 0.8 | 0.9 | 1.0 | 1.1 |
+| E \\ Ro | 2.5 | 3.0 | 3.5 |
+| :----   | -:  | -:  | -:  | 
+| **60%** | 1.0 | 1.2 | 1.4 | 
+| **65%** | 0.9 | 1.1 | 1.2 |
+| **70%** | 0.8 | 0.9 | 1.1 |
+| **75%** | 0.6 | 0.8 | 0.9 |
 
 Ces calculs simples basés sur des hypothèses vérifiées ont pour seul objet de montrer l'effet significatif du port généralisé de masques de protection sur le rythme de propagation de l'épidémie **en ordre de grandeur**.  
-La seule conclusion valide qui peut en être tirée est que le port généralisé du masque, associé à d'autres mesures (tests, confinement sélectif) contribuerait significativement à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
+Ils permettent cependant de conclure que le port généralisé du masque, associé à d'autres mesures (tests, confinement sélectif) contribue significativement à la lutte pour ramener le coefficient R au-dessous de 1 c'est-à-dire stopper la propagation de l'épidémie.
 
 
 
