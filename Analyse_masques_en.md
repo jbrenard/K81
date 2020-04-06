@@ -34,10 +34,10 @@ We made 4 assumptions:
 #### China
 Of the 3,295 deaths that have been officially recorded on the 28th of March, 3,174 were in the Hubei province, the capital city of which is Wuhan with only 121 in the rest of the country. In this province, 40 million people were in total confinement for 2 months, the army ensuring compliance. 42,000 health personnel, doctors and nurses were sent from all over the country. In the rest of China, a 4 weeks partial confinement was put in place. Schools and many shops were closed. In parallel China increased its production of masks by a factor 15 (from 10 to 150 million per day) in a month mobilising its entire manufacturing infrastructure; for example, the car maker BYD, in just 4 weeks and starting from scratch ended up producing 5 million masks every day. Eventually, wearing a mask in public spaces became mandatory. In March, after this measure was put in place, the number of cases reduced dramatically and has since almost disappeared. Locally transmitted cases have disappeared. Economy is restarting, schools are gradually reopening and wearing a mask in public and at work remains an obligation. We deduct from this decrease that Ro during March was materially below 1.
 
-### South Korea
+#### South Korea
 After a crisis and a peak of cases (mainly due to a gathering in a religious sect in Daegu, caused by a “super spreader” end of February), the outbreak is totally under control. The number of new cases and daily deaths is decreasing to a level among the lowest in the world. On the 28th of March the death toll was 139, reaching  177 on the 4th of April. From a local source, 75% of people in the street of Seoul were wearing masks, 90% in shops, and 95% in the subway. Today, the government distributes 2 masks per week per person. South Korea has also engaged in a very aggressive testing policy especially among all the members of the sect and their acquaintances. Ro can be estimated slightly below 1.
 
-### Japan
+#### Japan
 Japan was one of the first countries affected - on average Chinese tourists in Japan account for 1 million per month. The first case, supposedly brought by a tourist from Wuhan, happened on the 15th of January. From late January, the percentage of Japanese wearing masks started to increase.  Observed use rate was about 60% in the street, 80% in shops and 90% in public transportation. During March, with a stabilised number of cases, this percentage gradually decreased. The combination of this relaxation and of the inflow of repatriated Japanese carriers, especially from Europe resulted in an increase of cases from mid-March. The government threatened additional measures and called for increased social distancing. The percentage of people wearing masks increased again and was recently measured at 80% in the streets and close to 90% in supermarkets. In April, the government will send a reusable and washable mask to all Japanese to compensate for the shortage of single-use masks. The number of available masks was 600 million in March and will surpass 700 million in April. From the evolution of the number of cases and deaths, we estimate the R0 was close to 1.1 and reaches now 1.4, most cases being located in Tokyo and its area. We will monitor its evolution after recent strengthening of social distancing and the increase is the mask use rate. In total, the number of deaths on the 28th of March was around 50 and was still less than 80 on the 4th of April, which is remarkable for a country counting the oldest population in the world and one of the densest urban areas. By comparison, the death ratio is 0.6 per one million inhabitants in Japan, 200 times smaller than France.
 
 #### Thailand
@@ -76,7 +76,7 @@ As we considered countries differing widely in terms of density, hygienic and sa
 In the case of France, there is a  short term deficit of enough throw-away or certified masks, and their production can only be gradual. A mandate to wear homemade masks to restart the economy at the end of the confinement period looks therefore realistic.  The restart would be made progressively to keep Ro below 1.  Strict confinement would continue for those most at risk while those going back to work would have to wear a mask. With the help of homemade masks, Ro would initially be around 1.2 (see section), and progressively decrease towards 0.5 as more effective masks become available and a larger part of the population becomes immune, effectively ending the pandemic, as observed in China.  As long as an effective vaccine is not made widely available, it would be prudent to maintain the obligatiion to wear masks in public places so as to avoid a relapse (“overshoot”). 
 
 ### References
-#### Statistical references :
+#### Statistical references
 https://toyokeizai.net/sp/visual/tko/covid19/en.html  
 https://www.worldometers.info/coronavirus/  
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6  
@@ -105,7 +105,7 @@ https://www.globaltimes.cn/content/1181610.shtml
 #### Articles on Czech Republic :
 https://www.euronews.com/2020/03/24/coronavirus-czechs-facing-up-to-covid-19-crisis-by-making-masks-mandatory  
 
-#### Opinion articles encouraging the systematic use of protective masks :
+#### Opinion articles encouraging the systematic use of protective masks
 https://www.liberation.fr/debats/2020/03/28/sortons-tous-masques_1783355?utm_medium=Social&utm_source=Facebook&fbclid=IwAR1DEJOWmevT68VGbSvJnEDD9PkqiW8zsQlPaANcCdML8GmZB0mziO2YDF8#Echobox=1585397342  
 https://www.liberation.fr/debats/2020/03/24/masques-mais-de-qui-se-moque-t-on_1782908
 
