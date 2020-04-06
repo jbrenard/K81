@@ -4,7 +4,7 @@ Cette simulation simple ne vise pas à se substituer à des études scientifique
 
 En France, le taux de croissance des cas déclarés comme des décès liés au Covid-19 est de l'ordre de 30% avant confinement et environ moitié moindre après les mesures de confinement mises en oeuvre, ce qui correspond à un taux de reproduction de base (Ro) de l'ordre de 3,1 (sur la base de 10 jours de période de contagion) et un taux de reproduction (R) d'environ 1,4 après confinement.[1]  
   
-<img src="https://github.com/fsteiner/K81/blob/master/Chart%20Covid%20France.png" width="600">  
+<img src="https://github.com/fsteiner/K81/blob/master/Chart_Covid_France.png" width="600">  
   
 Des estimations de l'efficacité des masques à l'inhalation (protection du porteur) et dans une moindre mesure à l'exhalation (protection d'autrui et non contamination de l'environnement) sont disponibles [2][3][4].  
 
