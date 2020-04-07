@@ -1,6 +1,6 @@
 ## Masques : les questions
 
-En réaction à notre premier mémo, nous avons reçu beauxoup de messages de soutien, et aussi certaines questions. 
+En réaction à notre premier mémo, nous avons reçu beaucoup de messages de soutien, et aussi certaines questions. 
 En nous appuyant sur notre [document précédent](Analyseportdemasque29mars.md) et sur l'information disponible, nous avons préparé quelques questions-réponses, que nous enrichirons au fil du temps.
 
 ### Q : "Que sait-on des modes de propagation du COVID-19 ?"
