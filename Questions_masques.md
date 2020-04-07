@@ -15,8 +15,9 @@ Même si la part des microgoutelettes dans la transmission n'est pas préciséme
 
 ### Q : "En l'absence de masques certifiés, les masques 'fait maison' sont-ils efficaces ?"
 Le risque de contracter la maladie étant proportionnel au degré d'exposition au virus, même une protection partielle réduit le risque. En particulier, les protections à l'émission et à la réception cumulant leurs effets positifs, l'efficacité du port généralisé du masque provient donc du double filtrage : réduction à l'émission, puis à la réception.  
-Un calcul simple, [disponible ici](Impact.md) montre que **le seul port généralisé du masque ramenerait le taux de reproduction d'une valeur Ro autour de 4,4 autour de 1,3 à 1,1** ce qui permettrait en association avec d'autres mesures de ramener le coefficient R au-dessous de 1 et donc de stopper la propagation de l'épidémie.  
-L'AFNOR a developpé des modèles de masques, [disponibles en téléchargement sur son site](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/).
+Un calcul simple, [disponible ici](Impact.md) montre que **le port généralisé du masque est un facteur majeur pour ramener le taux de reproduction Ro au-dessous de 1** donc stopper la propagation de l'épidémie.  
+L'AFNOR a developpé des modèles de masques, [disponibles en téléchargement sur son site](https://www.afnor.org/actualites/coronavirus-telechargez-le-modele-de-masque-barriere/).  
+Mise à jour - [un article du magazine Nature](https://www.nature.com/articles/s41591-020-0843-2) montre l'efficacité des masques chirurgicaux pour bloquer les gouttelettes et micro-gouttelettes dans le cas des coronavirus.
 
 ### Q : "Très bonne idée, les masques, mais on n'en a pas et il y a une pénurie mondiale"
 Il est vrai que les stocks de masques chirurgicaux ne sont pas disponibles pour équiper immédiatement l'ensemble de la population. Mais les masques artisanaux apportent une protection qui ferait la différence dans un premier temps (voir plus haut). Des instructions sur la fabrication de masques sont disponibles en ligne, voir pour un argumentaire complet et de nombreux exemples ce site créé par des médecins lillois [EAP-Écrans Anti-Postillons](http://stop-postillons.fr/).  
@@ -28,7 +29,10 @@ C'est un bon début, mais c'est vastement insuffisant : nous sommes 60 millions,
 À Taiwan, les autorités distribuent 3 masques par semaine et par adulte. Pour la France, ceci représenterait *250 millions de masques par semaine* ...
 
 ### Q : "L'OMS dit que ça ne sert à rien !"
-Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, nous sommes ici à la limite de la malhonnêteté intellectuelle. l'autre argument de l'OMS est encore plus étonnant - il y a des preuves que porter un masque de la mauvaise manière accélère la propagation du virus. 
-https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-30-20-intl-hnk/h_a4c7ab061408ea0bba6e5ba93936f2f4
-Donc l'OMS n´aurait aucune étude sur l'efficacité du masque, mais des études sur ses effets négatifs lorsque mal utilisés.  
-De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) et maintenant l'Académie de Médecine en France, recommandent à ceux qui sortent de porter un masque systématiquement.
+Faux, l'OMS dit qu'aucune étude ne prouve l'efficacité du port généralisé des masques. C'est simplement lié au fait qu'aucune étude n'a été réalisée sur ce sujet, donc aucune étude ne prouve non plus que ça ne sert à rien.
+
+De plus, le CDC (Center for Disease Control, équivalent étatsunien de Santé Publique France) recommande à ceux qui sortent de porter un masque systématiquement. Voyez [ici](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) la recommandation du CDC, avec une démonstration par le ministre de la santé étatsunien de la façon de se protéger facilement, sans couture.
+
+2 avril :  l'Académie de Médecine en France rejoint cet avis, voici [sa recommandation complète](http://www.academie-medecine.fr/communique-de-lacademie-pandemie-de-covid-19-mesures-barrieres-renforcees-pendant-le-confinement-et-en-phase-de-sortie-de-confinement/).
+
+Mise à jour du 4 avril - le docteur Mike Ryan, expert en situations d'urgence à l'OMS a déclaré «(...)l'idée d'utiliser des masques recouvrant les voies respiratoires ou la bouche pour empêcher que la toux ou le reniflement projette la maladie dans l'environnement et vers les autres (...) n'est pas une mauvaise idée en soi» [cité par le Figaro](https://www.lefigaro.fr/flash-actu/coronavirus-l-oms-ouvre-la-voie-a-un-usage-elargi-des-masques-20200403).
