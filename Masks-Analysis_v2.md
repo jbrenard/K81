@@ -1,0 +1,141 @@
+## Fact-based qualitative analysis of the impact of using protective masks in the COVID-19 crisis
+
+*In this paper, we will refer to protective masks and similar facial protection as simply “masks”*
+
+### Preliminary statement
+The purpose of this document is to highlight the critical elements contributing to reduce the outbreak of the virus, focusing on two levers:
+
+-	**The systematic use of masks, even homemade**
+-	**The immediate mass production of high quality masks** 
+
+### Introduction and framework of the analysis
+This summarised document does not intend to replace an in-depth study. Its objective is to demonstrate critical factors and correlations in both a qualitative/fact-based and reasonably quantified manner.
+References given at the end of the document have established the basis for this analysis.  
+Unless stated otherwise, data on coronavirus come from the [John Hopkins University Covid19 database](https://github.com/CSSEGISandData/COVID-19), update of 6/04/2020. We made the implicit assumption that published numbers reflect their actual evolution despite possible methodological discrepancies between countries.  
+Country population data come from the [World Bank database 2018](https://data.worldbank.org/indicator/SP.POP.TOTL)
+
+This analysis was conducted with a two-pronged approach:
+- An empirical approach: estimating the growth rate of the epidemics in different countries with different practices regarding the use of masks, based on publicly available data.
+- A bottom-up calculation of a theoretical growth (and derived Ro) based on the level of use of masks in different countries. We measured or had measured the actual share of mask use in different locations (street, shops, subway) and factored in the efficiency of different types of masks as published in the scientific literature according to laboratory tests.  
+
+To our knowledge, it is the only analysis comparing these 2 elements, establishing a tentative yet convincing evidence of correlation between the use of masks and the reduction of the Ro ratio.
+
+We made 4 assumptions:
+
+1.	The most sophisticated masks (FFP2) are reserved for medical practitioners, nurses and employees in contact with infected patients. These masks aim at protecting those individuals. Our study covers 2 other types of masks: basic 3-ply masks (usually found in pharmacies, drugstores or online) and homemade fabric masks.  
+
+2. We  assume a simplistic epidemiologic model following the S-curve (see appendix A). Following such a model, in the first stages the cumulated number of cases and deaths follow an exponential curve, which corresponds to empirical observations. The basic reproduction number ([Ro](https://en.wikipedia.org/wiki/Basic_reproduction_number)) has recently become a popular yardstick in assessing the stage of the epidemic (exponential spread needs a Ro above 1.0). Our Ro estimates are derived from our simple model as described in appendix A and observed growth rates (see appendix C).
+
+3.	We made assumptions on the filtration power of various type of masks base on available literature [1][2][3][4]. We then crudely modeled rates of transmission based on an assumption of the use of masks among the population (see appendix B). 
+
+4.	We make no other assumptions on other preventive measures (hygiene practices or social distancing).
+
+### I Empirical Approach
+
+#### China
+Of the 3,295 deaths that have been officially recorded on the 28th of March, 3,174 were in the Hubei province, the capital city of which is Wuhan with only 121 in the rest of the country *(source: press)*. In this province, 40 million people were in total confinement for 2 months, the army ensuring compliance. 42,000 health personnel, doctors and nurses were sent from all over the country. In the rest of China, a 4 weeks partial confinement was put in place. Schools and many shops were closed. In parallel China increased its production of masks by a factor 15 (from 10 to 150 million per day) in a month mobilising its entire manufacturing infrastructure; for example, the car maker BYD, in just 4 weeks and starting from scratch ended up producing 5 million masks every day. Eventually, wearing a mask in public spaces became mandatory. In March, after this measure was put in place, the number of cases reduced dramatically and has since almost disappeared. Locally transmitted cases have disappeared. Economy is restarting, schools are gradually reopening and wearing a mask in public and at work remains an obligation. Based on available data, **the epidemic appears to have been effectively stopped in China**.
+
+#### South Korea
+After a crisis and a peak of cases (mainly due to a gathering in a religious sect in Daegu, caused by a “super spreader” end of February), the outbreak is now under control. The growth of cases and deaths, initially around 30-35% is now between 2-5%, a **Ro between 0.2 and 0.5** From a local source, 75% of people in the street of Seoul were wearing masks, 90% in shops, and 95% in the subway. Today, the government distributes 2 masks per week per person. South Korea has also engaged in a very aggressive testing policy especially among all the members of the sect and their acquaintances. **The epidemic in South Korea is now stabilised.**
+
+#### Japan
+The propagation in Japan remains moderate: confirmed cases grow at a rate of 8-9% and the pace of deaths, initially 15% is now down to 5%, suggesting a **Ro between .5 and .9**. This is in stark contrast with some Western countries. For instance as of 6 April, Japan counted 85 deaths due to COVID-19, 100 times less than France, a country of half its population.
+Japan was one of the first countries affected - on average Chinese tourists in Japan account for 1 million per month. The first case, supposedly brought by a tourist from Wuhan, happened on the 15th of January. From late January, the percentage of Japanese wearing masks started to increase.  Observed use was about 60% in the street, 80% in shops and 90% in public transportation. During March, with a stabilised number of cases, this percentage gradually decreased. The combination of this relaxation and of the inflow of repatriated Japanese carriers, especially from Europe resulted in an increase of cases from mid-March. The government threatened additional measures and called for increased social distancing. The percentage of people wearing masks increased again and was recently measured at 80% in the streets and close to 90% in supermarkets. In April, the government will send a reusable and washable mask to all Japanese to compensate for the shortage of single-use masks. The number of available masks was 600 million in March and will surpass 700 million in April.
+
+#### Taiwan
+Taiwan is considered as a role model by several countries with only 373 cases and 5 deaths recorded as of 5th of April, despite close ties with the Republic of China. As o 6 April, only around 10 new cases are reported every day and no death related to COVID-19 has been reported for a week. Schools were quick to reopen with a high level of control and the number of cases remains limited. Borders were also closed early on. Army contributed to the production of masks, currently at 10 millions per day for a population of 23 million. Distribution is based on the local Social Security ID so as to prevent wrongdoings. Weekly allocation is 3 masks per adult and 5 per child. **The epidemic in Taiwan is practically stopped.**
+
+#### Thailand
+One of the most visited countries in the world, Thailand closed their borders early on and the use of masks is high. Only 2,220 cases and 26 deaths related to COVID-19 have been reported to 5th of April in a country as populated as France, the UK or Italy. It is early to assess the trend (the second fatality was reported only on 24 March) but it will be informative to follow the evolution in this country in the future.
+
+#### Czech Republic
+The policy adopted by the Czech Republic is singular in Europe. On 18 March, the government edicted that a mask or scarf should be worn in any public space - confinement had been enforced 2 days earlier.
+Many Czechs ar now wearing a mask in public, which seemed to have been the case even before the government's instructions.  
+Following public figures and influencers, Czech had started to manufacture protective masks at home en masse, and a grassroots movement "masks4all" turned the use of masks into a national cause.  
+The government followed public opinion. To demonstrate their commitment, cabinet ministers now wear masks when addressing people on TV. In parallel, testing was ramped up, 150,000 quick tests having been ordered from China.
+So far 4,822 cases and 78 deaths have been recorded as of 6 April.
+It is difficult to separate the impact of masks and confinement as the Czech government reacted early on. The first confirmed cased was recorded on 1st March, confinement put in place on 16 March, masks made mandatory on 18 march and the first death recorded on 22 March. Confirmed cases are currently growing at 11% per day and deaths at 24%, rates comparable to Germany (albeit at a third of the prevalence seen in Germany in percentage of the population). Estimated **Ro *including confinment measures and masks* is therefore lilely to be between 1.1 and 2.4**.
+
+
+### II Bottom-up Calculation
+Our hypotheses are based on the performance of the various types of masks based on several studies [1][2][3][4] and explicited in Appendix B.
+We consider 2 types of masks:
+- Surgicals masks, with an assumption efficiency of 63% both on emission and reception
+- Some made masks, 50% both on emission and reception.
+
+We consider 3 scenarios of equipment (percentage of population):
+- Short term: 15% with surgical masks, 55% with homemade masks, the remaining 30% unprotected
+- Medium term: 60% with surgical masks, 20% with homemade masks, 20% unprotected
+- All-masks: reference scenario with 100% surgical masks
+
+  
+Extending the above calculation to all possible combinations allows to compute simply the order of magnitude of the overall efficiency for each scenario:
+- Short term: 60%
+- Medium term: 73%
+- All-masks: 86%
+
+Observed growth in European countries (France, Italy, Spain, UK, Germany) is circa 30-35% (see appendix C)
+
+
+
+Hypothesis H1 assumes an 80% efficiency outwards and 30% inwards (surgical mask, with reduction in inward flow of one third of the cases, corresponding to hand-to-mouth contact), H2 assumes a 60% efficiency both outwards and inwards, corresponding to an average of various mask types. H3 assumes homemade masks with low efficiency: 50% outwards, 20% inwards.  
+Assuming generalised use (100%) leads to a Ro at 0.5 (similar to China) for H1 and H2 and 1.2 (similar to Czech Republic) for H3.  
+Assuming 60% use of H1 and H2 masks plus 10% of H3 masks leads to a rate circa 1.2 (comparable to Japan).  
+Finally assuming 80% use of either H1 or H2 masks gives a Ro circa 0.8 (South Korea).   
+This simple calculation is performed as follows (example of 80% use and outwards inwards efficiency ratios Eo and Ei).  
+Interactions between virus carriers and healthy subjects:
+>20% x 20% =  4% (unprotected to unprotected) x Ro  
+80% x 20% = 16% (protected to unprotected)   x Ro x (1-Eo)  
+20% x 80% = 16% (unprotected to protected)   x Ro x (1-Ei)  
+80% x 80% = 64% (protected to protected)     x Ro x (1-Eo) x (1-Ei)  
+
+### III Comparison with empirical evidence
+Our theoretical calculations are in line with the empirical observation of the spread of the disease in countries where mask use is either enforced (China, Czech Republic) or culturally ingrained (Japan, South Korea). The same calculation would apply to Taiwan, Hong Kong or Thailand with similar results. There are two merits in having a low replication rate: firstly, a Ro close to 1 leads to a quasi-linear growth of the epidemic, buying time for governments to adust measures balancing public safety, the level of stress to the health system and the preservation of the economy.  
+Also, the level of herd immunity Ti (the share of the population that needs to be immune for the number of new cases to start decreasing) is lower the closer Ro gets to 1, following the formula Ti = 1 - 1/Ro. This share is 67% for Ro = 3, 40% for Ro = 1.7,  10% for Ro = 1.1. A low Ro therefore both slows the spread of the disease and brings forward the end of the epidemic.  
+Other measures such as the closing of schools and the implementation of preventive measures are common to all countries. Confinement becomes necessary when the situation gets out of control, which quickly happens with daily growth rates of 33% as originally observed in Wuhan and Hubei province, now in Europe. Closing borders for countries where the epidemic is contained becomes necessary when all or  new cases are imported as is now the case in China or Japan. In the long run, one could envision the emergence of areas of free circulation restricted to countries having managed, thanks partially to the use of masks, to eradicate the virus.  
+As we considered countries differing widely in terms of density, hygienic and sanitary practices, health prevention culture, prevalence of tests, health or transport density and infrastructure, the observed correlation between the use of protective masks and the replication rate leaves little doubt on the first-order impact of this policy. If correlation does not always imply causality, the magnitude of the discrepancy between countries using masks or not is compelling.
+
+### IV Conclusions and recommendations
+
+In the case of France, there is a  short term deficit of enough throw-away or certified masks, and their production can only be gradual. A mandate to wear homemade masks to restart the economy at the end of the confinement period looks therefore realistic.  The restart would be made progressively to keep Ro below 1.  Strict confinement would continue for those most at risk while those going back to work would have to wear a mask. With the help of homemade masks, Ro would initially be around 1.2 (see section), and progressively decrease towards 0.5 as more effective masks become available and a larger part of the population becomes immune, effectively ending the pandemic, as observed in China.  As long as an effective vaccine is not made widely available, it would be prudent to maintain the obligatiion to wear masks in public places so as to avoid a relapse (“overshoot”). 
+
+### References
+[1]  Davies, Thompson, Giri, et al. Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?  
+Disaster medicine and public health preparedness 10.1017/dmp.2013.43  
+https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/testing-the-efficacy-of-homemade-masks-would-they-protect-in-an-influenza-pandemic/0921A05A69A9419C862FA2F35F819D55
+
+[2] Compilation of various studies either performed or collected by social enterprise Smart Air  https://smartairfilters.com/en/blog/coronavirus-pollution-masks-n95-surgical-mask/
+
+[3] Leung, N.H.L., Chu, D.K.W., Shiu, E.Y.C. et al. Respiratory virus shedding in exhaled breath and efficacy of face masks. Nat Med (2020).  doi.org/10.1038/s41591-020-0843-2
+
+[4] Yan J, Guha S, Hariharan P, Myers M. Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak. Risk Anal. 2019;39(3):647–661. doi:10.1111/risa.13181
+
+### Appendix A - Simplistic epidemiologic model
+We used a simplistic model of epidemic propagation, the "S-curve":  
+> x = 1/(1 + e<sup>-kt</sup>)  
+
+Where x is the infected proportion of the population, t time in days and k a parameter m reprenting the pace of evolution. In the initial phase, growth is practically exponential:
+> x ~ e<sup>kt</sup> = (1 + r)<sup>t</sup>  
+
+With r the daily growth rate and the relationship between k and r: 
+> r =  e<sup>k</sup> - 1  
+
+r is the daily increase of infected individuals per existing contagious case, in a population without immunity, this rate being assumed constant in our simplified model. The reproduction number Ro in this basic model is simply the rate of growth r multiplied by the length of the infectious period P expressed in days:  
+> Ro = r x P
+
+### Appendix B - Simple model of mask transmission
+Several estimates of the efficiency of masks for reception (protecting the wearer) and to some extent emission (protecting others and preventing surface contamination) are available [1][2][3][4].
+Based on these studies:
+- For reception, one can assume a level of protection circa 50% for homemade masks, 63-80% for surgical masks (and incidentally circa 95% for protective masks FFP2 certified), for particles of relevant size (23 nm as tested compared to 60-10 nm for the virus). In this model we took the lower value of 63% for the surgical masks.
+- For emission, data are few and more difficult to interpret - on a limited sample, practically full protection was observed for surgical masks in the case of conronavirus [4].  As a mask is most certainly more efficient outwards than inwards, in this document we took the conservative hypothesis of aligning emission protection to the lower value measured for reception protection i.e. 50% for homemade masks and 63% for surgical masks.  
+
+The risk of contracting the disease being proportional to exposure, even partial protection has a positive impact.  
+Specifically, as emission and reception protection add up, the overall efficiency of the systematic use of masks stems from the double barrier: filtering inwards and outwards.  
+For instance the risk for the wearer of a homemade mask to be contaminated by the wearer of a surgical mask would be:
+> (1-63%) *outwards* x (1-50%) *inwards* = 18,5%  
+
+hence an efficiency in this particular case :
+> 1 - 18,5% = 81,5%  
+
+Similarly, efficiency between homemade masks would be 75% and 86% between wearers of surgical masks.
+ 
