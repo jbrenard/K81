@@ -113,7 +113,8 @@ Therefore, the cumulated proportion of population infected at t+1 will be
 or
 > X(t+1) = X(t) + Ko x (X(t) - X(t-C)) x (1-X(t))  
 
-If we measure the daily growth rate K on a stable segment (20-30 days) of the curve, Ko can be approximated with the following formula:
+Simulating this function allows to retrieve the Ro from the observed growth rate K on a stable segment (20-30 days).  
+Alternatively, Ko can be approximated with the following formula:
 > Ko ~ log(1 + K) + 0.05  
 
 Which gives us an estimate of Ro, with K the daily growth rate and C the period of infectivity:
