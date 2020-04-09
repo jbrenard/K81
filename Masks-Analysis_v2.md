@@ -99,20 +99,26 @@ https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-prep
 
 ### Appendix A - A simple epidemiologic model
 We used a simplistic model of epidemic propagation, assuming a daily transmission rate Ko and a period of infectivity of C days. Ro is the product of these two factors:
-> Ro = Ko x C 
+> Ro = Ko x C  
+
 At any given period moment t, if X(t) is the cumulated proportion of confirmed cases at t, the part of the population still infections PInf is:
 > PInf(t) = X(t) - X(t-C)  
+
 As people having contracted the disease prior than (t-C) are not infectious anymore.
 Each carrier of the virus would transmit the disease to Ko individuals if nobody in the population was infected.
 At t, there is only a proportion (1-X(t)) that can still catch the virus.  
 Therefore, the cumulated proportion of population infected at t+1 will be
 > X(t+1) = X(t) + Ko x PInf(t) x (1-X(t))  
+
 or
 > X(t+1) = X(t) + Ko x (X(t) - X(t-C)) x (1-X(t))  
+
 If we measure the daily growth rate K on a stable segment (20-30 days) of the curve, Ko can be approximated with the following formula:
-> Ko ~ log(1 + K) + 0.05
+> Ko ~ log(1 + K) + 0.05  
+
 Which gives us an estimate of Ro, with K the daily growth rate and C the period of infectivity:
-> Ro ~ C x (log(1 + K) + 0.05)
+> Ro ~ C x (log(1 + K) + 0.05)  
+
 This approximation is valid for R ≥ 1, i.e. with our hypothesis for C (10 days) for K ≥ 5%.
 
 ### Appendix B - Simple model of mask impact on contamination
