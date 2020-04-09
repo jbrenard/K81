@@ -121,7 +121,7 @@ Which gives us an estimate of Ro, with K the daily growth rate and C the period 
 
 This approximation is valid for R ≥ 1, i.e. with our hypothesis for C (10 days) for K ≥ 5%.
 
-### Appendix B - Simple model of mask impact on contamination
+### Appendix B - A simple model of mask impact on contamination
 Several estimates of the efficiency of masks for reception (protecting the wearer) and to some extent emission (protecting others and preventing surface contamination) are available [1][2][3][4].
 Based on these studies:
 - For reception, one can assume a level of protection circa 50% for homemade masks, 63-80% for surgical masks (and incidentally circa 95% for protective masks FFP2 certified), for particles of relevant size (23 nm as tested compared to 60-10 nm for the virus). In this model we took the (conservative) lower value of 63% for surgical masks.
@@ -131,15 +131,15 @@ Specifically, as emission and reception protection add up, the overall efficienc
 
 We then combine mask performance and proportion of use.
 If a mask with Ee efficiency (emission) and Er efficiency (reception) is used by a percentage P of the population, the rest of the population remaining unprotected, contamination between the two groups would be modeled as follows:
->Unprotected -> Unprotected UU = (1-P) x (1-P) x Ro
-Unprotected -> Masked UM = (1-P) x P x (1-Er) x Ro 
+>Unprotected -> Unprotected UU = (1-P) x (1-P) x Ro  
+Unprotected -> Masked UM = (1-P) x P x (1-Er) x Ro  
 Masked -> Unprotected MU = P x (1-P) x (1-Ee) x Ro  
 Masked -> Masked MM = P x P x (1-Ee) x (1-Er) x Ro  
 
 The resulting R will be UU + UM + MU + MM
 Similar calculations are performed if there are more than 2 groups of the population.
 
-### Appendix C Data Visualisation
+### Appendix C - Data visualisation
 #### Visualisation of initial growth rates of confirmed cases in countries with and without masks
 <img src="https://github.com/fsteiner/K81/blob/master/Select_masks_confirmed.png"> 
 <img src="https://github.com/fsteiner/K81/blob/master/Select_base_confirmed.png">   
